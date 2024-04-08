@@ -1,4 +1,4 @@
-# Case-Study-Penny-Pencher
+# Case-Study-Penny-Pincher
 
 ## Problem Intro:
 The data is anonymous.
