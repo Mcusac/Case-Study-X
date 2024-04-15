@@ -34,3 +34,13 @@ print("\nShape of the preprocessed dataset after dropping NaN rows:", data.shape
 
 # Save the preprocessed dataset as a new CSV file
 data.to_csv('Data/PPDataDNA.csv', index=False)
+
+# import seaborn as sns
+# import matplotlib.pyplot as plt
+
+# # Plot the distribution of the target variable 'y'
+# sns.countplot(data['y'])
+# plt.title('Distribution of Target Variable')
+# plt.xlabel('Target Variable')
+# plt.ylabel('Count')
+# plt.show()
